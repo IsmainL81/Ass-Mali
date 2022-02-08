@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(45deg, rgb(160, 88, 88), rgb(187, 187, 59), rgb(78, 150, 78));
+  }
+  .jumbotron {
+    background-color: cornsilk;
+  } 
+  a.socialMediaLink {
+    position: fixed;
+  }
